@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Tyler Herron',
-  subtitle: 'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, runner.',
+  subtitle: 'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, backpacker.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,32 +12,30 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+        label: 'Posts',
+        path: '/',
+        file: false
     },
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+        label: 'About',
+        path: '/pages/about',
+        file: false
     }
   ],
   author: {
-    name: 'Tyler Herron',
+    name: 'Tyler? Herron! 🤠',
     photo: '/profile.jpg',
-    bio: 'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, runner.',
+    bio: 'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, backpacker.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'tbh@therron.me',
+      linkedin: 'tbherron',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'tbh717',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

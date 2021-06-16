@@ -3,3 +3,13 @@
 @import "variables";
 @import "mixins";
 @import "base";
+
+// Styles
+*::selection {
+    background: $color-selection-bg;
+    color: $color-selection-text;
+}
+*::-moz-selection {
+    background: $color-selection-bg;
+    color: $color-selection-text;
+}
