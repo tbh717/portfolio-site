@@ -1,6 +1,10 @@
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
+body {
+    background: $color-background;
+}
+
 .layout {
     lost-center: $layout-width;
 }

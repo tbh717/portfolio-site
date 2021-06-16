@@ -1,6 +1,6 @@
 // @flow strict
 import React from 'react';
-import { Link } from 'gatsby';
+import { withPrefix, Link } from 'gatsby';
 import styles from './Menu.module.scss';
 
 type Props = {
@@ -15,15 +15,15 @@ const Menu = ({ menu }: Props) => (
     <ul className={styles['menu__list']}>
       {menu.map((item) => (
         <li className={styles['menu__list-item']} key={item.path}>
-          <Link
-            to={item.path}
-            className={styles['menu__list-item-link']}
-            activeClassName={styles['menu__list-item-link--active']}
-          >
-            {item.label}
+            {/* <a href={withPrefix(item.path)} target="_blank">Probability</a> */}
+          <Link to={withPrefix(item.path)} className={styles['menu__list-item-link']} activeClassName={styles['menu__list-item-link--active']}>
+            <strong>{item.label}</strong>
           </Link>
         </li>
       ))}
+      <a href={withPrefix('/Tyler_Herron-resume.pdf')} target='_blank' className={styles['menu__list-item-link']} activeClassName={styles['menu__list-item-link--active']}>
+        <strong>Resume</strong>
+      </a>
     </ul>
   </nav>
 );

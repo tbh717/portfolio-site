@@ -1,13 +1,21 @@
 ---
-title: "About me"
+title: "Howdy 👋"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/river-tbh.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm **Tyler**—one of many.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+This one in particular is a recent **San Antonio** → **Dallas** transplant, who currently works remotely as a **Software Engineer** for **USAA**.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I have a few years of **full stack development** experience under my brass buckled belt—building everything from reactive enterprise microservices capable of handling tens of millions of hourly API calls, to boutique admin console websites, to 4X turn-based strategy games. I love learning the best new tools to build a product, but I'll harp the hardest on functional programming and sound technical documentation practices when it comes down to it.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+While I don't get to flex these muscles as regularly, I also have experience as a self-taught **graphic designer**, having spent a few years managing the visual identity of a student-run university newspaper and occasionally busting my chops for technical documentation and company hackathons.
+
+In my free time, I love to cook (ask me about the recipe catalogs of Yotam Ottolenghi or Fuschia Dunlop), explore everything from Dallas coffee roasters to distant national parks, and pair the **[hottest metal LPs](https://morrowpunx.bandcamp.com/album/fallow)** with equally hot, sun-drenched runs.
+
+<hr>
+
+This site was built with **[Gatsby](https://www.gatsbyjs.com/)**, on top of a tricked out and slimmed down iteration on **[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen)**, deployed and certified via **[Netlify](https://www.netlify.com/with/gatsby/)**, with hosting and email managed by **[Namecheap](https://www.namecheap.com)**.
+
+<!-- ![At the river.](/media/river-tbh.jpg) -->
