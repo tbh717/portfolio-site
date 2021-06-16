@@ -4,7 +4,8 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Tyler Herron',
-  subtitle: 'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, backpacker.',
+  subtitle:
+    'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, backpacker.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,15 +13,15 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-        label: 'Posts',
-        path: '/',
-        file: false
+      label: 'Posts',
+      path: '/',
+      file: false,
     },
     {
-        label: 'About',
-        path: '/pages/about',
-        file: false
-    }
+      label: 'About',
+      path: '/pages/about',
+      file: false,
+    },
   ],
   author: {
     name: 'Tyler? Herron! 🤠',
@@ -43,6 +44,6 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '',
-    }
-  }
+    },
+  },
 };
