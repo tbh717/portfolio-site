@@ -6,7 +6,7 @@ socialImage: "/media/river-tbh.jpg"
 
 I'm **Tyler**—one of many.
 
-This one in particular is a recent **San Antonio** → **Dallas** transplant, who currently works remotely as a **Software Engineer** for **USAA**.
+This one in particular is a recent **San Antonio** → **Dallas** transplant, who currently serves auto loan customers as a **Software Engineer** for **Capital One**.
 
 I have a few years of **full stack development** experience under my brass buckled belt—building everything from reactive enterprise microservices capable of handling tens of millions of hourly API calls, to boutique admin console websites, to 4X turn-based strategy games. I love learning the best new tools to build a product, but I'll harp the loudest on the joys of functional programming and sound technical documentation practices when it comes down to it.
 
