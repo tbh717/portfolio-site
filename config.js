@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Tyler Herron',
   subtitle:
-    'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, backpacker.',
+    'A collection of eccentricities.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,7 +26,7 @@ module.exports = {
   author: {
     name: 'Tyler? Herron! 🤠',
     photo: '/profile.jpg',
-    bio: 'Dallasite, software engineer, designer, heavy music buff, amateur Sichuan chef, bookworm, urbanist, backpacker.',
+    bio: 'A collection of eccentricities.',
     contacts: {
       email: 'tbh@therron.me',
       linkedin: 'tbherron',
