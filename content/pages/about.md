@@ -12,7 +12,7 @@ I have a few years of **full stack development** experience under my brass buckl
 
 While I don't get to flex these muscles as regularly, I also have extensive experience as a self-taught **graphic designer**, having spent a few years managing the visual identity of **[Trinity's University's student-run newspaper](https://trinitonian.com)** and occasionally still busting my chops for technical documentation efforts and hackathons across corporate America.
 
-Outside of work, I love to set off my apartment's delicate smoke alarms cooking (ask me about the catalogs of Yotam Ottolenghi or Fuschia Dunlop), explore everything from neighborhood coffee roasters to far-flung national parks, pair the **[hottest fifth-wave emo LPs](https://www.youtube.com/watch?v=2O5CoajpOGI)** with equally hot sun-drenched runs, and spend time homemaking with my partner for our gentle Silken Windhound puppy and feisty Norwegian Forest cat.
+Outside of work, I love to set off my apartment's delicate smoke alarms cooking (ask me about the catalogs of **[Yotam Ottolenghi](https://www.theguardian.com/food/2020/feb/29/yotam-ottolenghi-winter-vegetable-recipes-celeriac-cafe-de-paris-sauce-tomato-barley-stew-tunisian-potato-beans)** or **[Fuschia Dunlop](https://www.theguardian.com/food/2019/nov/09/sichuan-recipes-fuchsia-dunlop-chicken-prawn-minced-pork)**), explore everything from neighborhood coffee roasters to far-flung national parks, pair the **[hottest fifth-wave emo LPs](https://www.youtube.com/watch?v=2O5CoajpOGI)** with equally hot sun-drenched runs, and spend time homemaking with my partner for our **[gentle Silken Windhound puppy](https://www.instagram.com/charathewindhound/)** and feisty Norwegian Forest cat.
 
 <hr>
 
