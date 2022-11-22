@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/river-tbh.jpg"
 ---
 
-I'm **Tyler** (one of many) **Herron** (one of a few).
+I'm **Tyler** (one of many) **Herron** (one of few).
 
 This Tyler is a cross-Texas transplant who currently serves auto loan customers as a **Software Engineer** for **Capital One**.
 
