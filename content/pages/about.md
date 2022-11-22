@@ -4,15 +4,15 @@ template: "page"
 socialImage: "/media/river-tbh.jpg"
 ---
 
-I'm **Tyler**—one of many.
+I'm **Tyler** (one of many) **Herron** (one of a few).
 
-This one in particular is a recent **San Antonio** → **Dallas** transplant, who currently serves auto loan customers as a **Software Engineer** for **Capital One**.
+This Tyler is a cross-Texas transplant who currently serves auto loan customers as a **Software Engineer** for **Capital One**.
 
-I have a few years of **full stack development** experience under my brass buckled belt—building everything from reactive enterprise microservices capable of handling tens of millions of hourly API calls, to boutique admin console websites, to 4X turn-based strategy games. I love learning the best new tools to build a product, but I'll harp the loudest on the joys of functional programming and sound technical documentation practices when it comes down to it.
+I have a few years of **full stack development** experience under my brass buckled belt — building everything from reactive enterprise microservices, scalable to tens of millions of hourly API calls, to boutique self-service DevOps front-ends, to cloud-enabled machine-learning enabled architectures, to 4X turn-based strategy games. I love working digging on on tough technical problems with the industry's many bright minds, and I'll harp the loudest on the joys of functional programming and sound technical documentation practices when it comes down to it.
 
-While I don't get to flex these muscles as regularly, I also have experience as a self-taught **graphic designer**, having spent a few years managing the visual identity of a student-run university newspaper and occasionally busting my chops for technical documentation and hackathons.
+While I don't get to flex these muscles as regularly, I also have extensive experience as a self-taught **graphic designer**, having spent a few years managing the visual identity of [Trinity's University's student-run newspaper](https://trinitonian.com) and occasionally still busting my chops for technical documentation efforts and hackathons across corporate America.
 
-In my free time, I love to cook (ask me about the recipe catalogs of Yotam Ottolenghi or Fuschia Dunlop), explore everything from local coffee roasters to distant national parks, and pair the **[hottest fifth-wave emo LPs](https://www.youtube.com/watch?v=2O5CoajpOGI)** with equally hot, sun-drenched runs.
+Outside of work, I love to set off my apartment's delicate smoke alarms cooking (ask me about the catalogs of Yotam Ottolenghi or Fuschia Dunlop), explore everything from neighborhood coffee roasters to far-flung national parks, pair the **[hottest fifth-wave emo LPs](https://www.youtube.com/watch?v=2O5CoajpOGI)** with equally hot sun-drenched runs, and spend time homemaking with my partner for our gentle Silken Windhound puppy and feisty Norwegian Forest cat.
 
 <hr>
 
