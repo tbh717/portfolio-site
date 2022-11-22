@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Tyler Herron',
   subtitle:
-    'Yet another online resume transfer station.',
+    'Yet another online resume transfer station with some underutilized blog awareness.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,7 +26,7 @@ module.exports = {
   author: {
     name: 'Tyler? Herron! 🤠',
     photo: '/profile.jpg',
-    bio: 'Yet another online resume transfer station.',
+    bio: 'Yet another online resume transfer station with some underutilized blog awareness.',
     contacts: {
       email: 'tbh@therron.me',
       linkedin: 'tbherron',
